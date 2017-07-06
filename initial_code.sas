@@ -39,7 +39,7 @@ proc freq data = summer.customer_transactions nlevels;
 	tables Reward_A / nocum nopercent;
 run;
 
-/*
+
 *reward types
 proc freq data = summer.customer_transactions nlevels;
 	tables Reward_r / nocum nopercent;
@@ -75,7 +75,7 @@ proc freq data = summer.customer_transactions;
 	format reward_r RE.;
 	table reward_r;
 run;
-*/
+
 
 
 * examine variables for individual patient medical history;
