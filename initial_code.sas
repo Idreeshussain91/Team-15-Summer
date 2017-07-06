@@ -239,7 +239,6 @@ proc geocode
  lookup =  SASHELP.ZIPCODE; /* Output data set */
 run;
 
-proc contents data = summer.CUSTOMER_INFO;
-run;
+
 
 
