@@ -6,9 +6,8 @@ Adjuster_technician: Correct Adj_ZIP
 
 Customer_family_medical
 
-*/
 
-/* Potential questions:
+Potential questions:
 
 What percentage of customers had claims?
 What is distribution of claims?
